@@ -1,0 +1,17 @@
+	Bug report
+==============================================
+ 1) Summary:
+ 2) Project:
+ 3) Component:
+ 4) Version:
+ 5) Severity:
+ 6) Priority:
+ 7) Status:
+ 8) Author:
+ 9) Assigned to:
+ 10) Invironment:
+ 11) Description
+     Steps to reproduce
+     Expected result
+     Actual result
+ 12) Attachments
